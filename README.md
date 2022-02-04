@@ -21,6 +21,7 @@ Source and target OS: Windows
 IDE: Delphi 6 (initially created this project using Delphi 6 Personal)
 
 Additional components required: 
+
 * HTTPGet component for Delphi 32 v1.94: http://delphi.icm.edu.pl/ftp/d20free/HTTPGet.zip
 * LkJSON v0.99: https://sourceforge.net/projects/lkjson/files/lkJSON/version%200.99/lkJSON-0.99.zip/download
 
