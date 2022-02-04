@@ -1,0 +1,33 @@
+**** Czytaj to - Polski, CE ****
+
+Liryk 1.0
+Autor: PeCeT_full
+Strona WWW: http://www.pecetfull.pl/pl
+Copyright © by PeCeT_full 2022.
+Program Liryk jest publikowany na zasadach MIT+CC, tj. licencji MIT z klauzul¹ Commons Clause. Wed³ug tych zasad oprogramowanie to mo¿e byæ dowolnie u¿ywane, kopiowane, modyfikowane, scalane, publikowane, rozprowadzane oraz podlicencjonowane pod warunkiem zachowania istniej¹cych ju¿ praw autorskich. Zabronione jest natomiast pobieranie jakichkolwiek op³at za prawa wynikaj¹ce z licencji. Wiêcej informacji mo¿na uzyskaæ zapoznaj¹c siê z plikiem Licence.txt (dostêpnym w jêzyku angielskim) do³¹czonym do aplikacji.
+
+W razie wszelkich problemów czy te¿ w¹tpliwoœci proszê o kontakt.
+
+-------------
+Opis programu
+-------------
+
+Liryk to program zaprojektowany z myœl¹ o zabytkowych komputerach osobistych do wyœwietlania spisu utworów z polskich rozg³oœni radiowych nadanych w ostatniej chwili lub wczeœniej. W tym celu aplikacja ³¹czy siê z API ods.lynx.re, które pozyskuje wed³ug wybranego okresu wszystkie utwory muzyczne, jakie zarejestrowa³ wówczas serwis Odsluchane.eu. Liryk zosta³ napisany w jêzyku Delphi.
+
+Minimalne wymagania sprzêtowe i systemowe: procesor o mocy 50 MHz lub szybszy; 8 MB dostêpnej pamiêci RAM; 0,7 MB dostêpnego wolnego miejsca na dysku, w którym znajduje siê program; system operacyjny Windows NT 3.51 SP5, Windows 95 lub nowszy; aktywne po³¹czenie z Internetem.
+
+-------------------------------------------------
+Przygotowanie do pracy z systemem Windows NT 3.51
+-------------------------------------------------
+
+Aby oprogramowanie mog³o prawid³owo dzia³aæ na Twoim komputerze z systemem Windows NT 3.51, musisz mieæ zainstalowany pakiet Service Pack 5 oraz posiadaæ bibliotekê WININET.DLL. Bibliotekê t¹ mo¿na dodaæ do systemu np. instaluj¹c pakiet biurowy Office 97.
+
+----------------
+Obs³uga programu
+----------------
+
+Przed pierwszym wyszukiwaniem musimy pobraæ listê stacji radiowych dostêpnych aktualnie na stronie Odsluchane.eu. Mo¿na to uczyniæ przechodz¹c do menu Region i z niego klikaj¹c pozycjê „Aktualizuj listê stacji radiowych” albo naciskaj¹c kombinacjê klawiszy Alt+U. Je¿eli aktualizacja przebieg³a pomyœlnie, powinniœmy móc wybraæ z listy dowoln¹ stacjê.
+
+Po wyborze radiostacji mo¿na jeszcze zmieniæ datê oraz przedzia³ czasowy, który nas interesuje. Po dokonaniu wszelkich decyzji mo¿emy przyst¹piæ do szukania – mo¿na to zrobiæ wybieraj¹c z menu Plik polecenie „Szukaj”, naciskaj¹c klawisz F3 lub te¿ klikaj¹c po prostu w przycisk lornetki na pasku pod menu g³ównym aplikacji. Po udanej operacji program wyœwietli wszystkie utwory zagrane w wybranej stacji radiowej dla danego okresu. Po zaznaczeniu jednego z nich mo¿emy skopiowaæ go do Schowka kombinacj¹ Ctrl+C b¹dŸ poleceniem „Kopiuj” z menu Edycja.
+
+Je¿eli na stronie Odsluchane.eu zosta³a dodana nowa stacja, musimy ponownie zaktualizowaæ listê, aby móc j¹ wybraæ w Liryku.
