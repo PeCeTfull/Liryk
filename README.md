@@ -28,3 +28,9 @@ Additional components required:
 ### Program licence ###
 
 Liryk is published under MIT+CC, i.e. the MIT License with the Commons Clause. According to these terms, this software can be freely used, copied, modified, merged, published, distributed and sublicensed provided that the already existing copyrights are kept whereas charging any fees for the rights given by the licence is forbidden. Please refer to the LICENSE.txt file of this repository for more information regarding it.
+
+### Screenshots ###
+
+<img width="420" height="400" alt="The main window of Liryk on Windows NT 3.51" src="https://github.com/user-attachments/assets/b20d5e94-ace2-48ca-9a76-bc5f336bcd37" />
+
+<img width="420" height="400" alt="The main window of Liryk on Windows 95" src="https://github.com/user-attachments/assets/4ee8c294-e7a2-4c28-a64d-0dafc9c7c4a9" />
